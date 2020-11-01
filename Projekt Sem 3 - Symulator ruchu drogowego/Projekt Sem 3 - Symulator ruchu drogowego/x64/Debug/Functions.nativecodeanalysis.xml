@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\</FILEPATH>
+      <FILENAME>Functions.cpp</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Przepełnienie arytmetyczne: użycie operatora „*” dla wartości bajtowej 4, a następnie rzutowanie wyniku na wartość bajtową 8. Rzutuj wartość na szerszy typ przed wywołaniem operatora „*” w celu uniknięcia przepełnienia (io.2).</DESCRIPTION>
+    <FUNCTION>vAngle</FUNCTION>
+    <DECORATED>?vAngle@@YAMV?$Vector2@M@sf@@@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

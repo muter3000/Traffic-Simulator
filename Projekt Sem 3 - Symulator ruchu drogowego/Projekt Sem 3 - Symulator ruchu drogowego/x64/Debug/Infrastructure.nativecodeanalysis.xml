@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\</FILEPATH>
+      <FILENAME>Infrastructure.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Zmienna „Infrastructure::type” jest niezainicjowana. Zawsze inicjuj zmienną składową (type.6).</DESCRIPTION>
+    <FUNCTION>Infrastructure::{ctor}</FUNCTION>
+    <DECORATED>??0Infrastructure@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Infrastructure::type</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

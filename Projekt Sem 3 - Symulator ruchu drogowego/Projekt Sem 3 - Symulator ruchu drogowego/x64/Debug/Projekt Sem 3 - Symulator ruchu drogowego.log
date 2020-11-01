@@ -1,0 +1,20 @@
+﻿  Car.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(9,74): warning C4244: "argument": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(14,16): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(22,16): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(39,14): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(43,56): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(50,14): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(54,22): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(75,164): warning C4244: "argument": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(132,27): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(205,37): warning C4305: "argument": obcięcie z "double" do "float"
+  Projekt Sem 3 - Symulator ruchu drogowego.vcxproj -> C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\x64\Debug\Projekt Sem 3 - Symulator ruchu drogowego.exe

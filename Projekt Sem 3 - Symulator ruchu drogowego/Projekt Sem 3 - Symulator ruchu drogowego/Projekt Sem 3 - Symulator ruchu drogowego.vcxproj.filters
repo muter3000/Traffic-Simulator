@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Canvases">
+      <UniqueIdentifier>{e3dd9d1b-d0b4-4007-84d5-7db7e0349393}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Canvases">
+      <UniqueIdentifier>{59f823bd-3b10-44ae-a0c0-a479960a537d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Boxes">
+      <UniqueIdentifier>{3bb035d6-6709-4131-ae8a-d6ace4447fd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Boxes">
+      <UniqueIdentifier>{6a6f28c2-7ac6-4190-901f-da0a000ed311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\SimulationObjects">
+      <UniqueIdentifier>{106e1bbc-18e6-4cb6-bf19-9451e7b6a93c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\SimulationObjects">
+      <UniqueIdentifier>{aed8ef00-a1bd-4bc9-ad21-20c8d628378b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\SimulationObjects\Infrastructure">
+      <UniqueIdentifier>{6ad79aa9-291b-41e5-80ab-f9c2dba2c333}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\SimulationObjects\Infrastructure">
+      <UniqueIdentifier>{552a1544-4325-4c7f-98c9-8e1ac9850472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\SimulationObjects\Cars">
+      <UniqueIdentifier>{0383f3bf-bc30-4d74-9156-97f8e65743d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\SimulationObjects\Cars">
+      <UniqueIdentifier>{0ea64c12-b720-4341-b09f-9f7d74c20de4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="ObiektGraficzny.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Program.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Stats.cpp">
+      <Filter>Pliki źródłowe\Canvases</Filter>
+    </ClCompile>
+    <ClCompile Include="Canvas.cpp">
+      <Filter>Pliki źródłowe\Canvases</Filter>
+    </ClCompile>
+    <ClCompile Include="StatsChange.cpp">
+      <Filter>Pliki źródłowe\Canvases</Filter>
+    </ClCompile>
+    <ClCompile Include="StartSettings.cpp">
+      <Filter>Pliki źródłowe\Canvases</Filter>
+    </ClCompile>
+    <ClCompile Include="InputBox.cpp">
+      <Filter>Pliki źródłowe\Boxes</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Pliki źródłowe\Boxes</Filter>
+    </ClCompile>
+    <ClCompile Include="Simulation.cpp">
+      <Filter>Pliki źródłowe\Canvases</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="TextControll.cpp">
+      <Filter>Pliki źródłowe\Boxes</Filter>
+    </ClCompile>
+    <ClCompile Include="Infrastructure.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Crossroad.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoWayCrossroad.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreeWayCrossroad.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Road.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="FourWayCrossroad.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Cars</Filter>
+    </ClCompile>
+    <ClCompile Include="Police.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Cars</Filter>
+    </ClCompile>
+    <ClCompile Include="Ambulance.cpp">
+      <Filter>Pliki źródłowe\SimulationObjects\Cars</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ObiektGraficzny.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Program.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Canvas.h">
+      <Filter>Pliki nagłówkowe\Canvases</Filter>
+    </ClInclude>
+    <ClInclude Include="Stats.h">
+      <Filter>Pliki nagłówkowe\Canvases</Filter>
+    </ClInclude>
+    <ClInclude Include="StatsChange.h">
+      <Filter>Pliki nagłówkowe\Canvases</Filter>
+    </ClInclude>
+    <ClInclude Include="StartSettings.h">
+      <Filter>Pliki nagłówkowe\Canvases</Filter>
+    </ClInclude>
+    <ClInclude Include="InputBox.h">
+      <Filter>Pliki nagłówkowe\Boxes</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Pliki nagłówkowe\Boxes</Filter>
+    </ClInclude>
+    <ClInclude Include="Simulation.h">
+      <Filter>Pliki nagłówkowe\Canvases</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="TextControll.h">
+      <Filter>Pliki nagłówkowe\Boxes</Filter>
+    </ClInclude>
+    <ClInclude Include="Infrastructure.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Crossroad.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoWayCrossroad.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreeWayCrossroad.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Road.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="FourWayCrossroad.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="Police.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Cars</Filter>
+    </ClInclude>
+    <ClInclude Include="Ambulance.h">
+      <Filter>Pliki nagłówkowe\SimulationObjects\Cars</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,243 @@
+﻿  Button.cpp
+  Canvas.cpp
+  Car.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Car.cpp(19,27): warning C4305: "argument": obcięcie z "double" do "float"
+  Functions.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Functions.cpp(28,13): warning C4305: "*=": obcięcie z "double" do "float"
+  InputBox.cpp
+  Program.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(19,53): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(20,59): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(21,40): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(23,63): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(23,41): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(24,67): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(24,45): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(25,69): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(25,47): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(26,76): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Program.cpp(26,57): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Main.cpp
+  ObiektGraficzny.cpp
+  Simulation.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Simulation.cpp(12,97): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Simulation.cpp(51,30): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  StartSettings.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(13,111): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(14,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(14,115): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(15,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(15,100): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(17,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(17,126): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(18,47): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(18,101): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StartSettings.cpp(20,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  StatsChange.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(13,116): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(14,54): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(14,120): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(15,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(15,103): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(17,54): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(17,126): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(18,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(18,104): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\StatsChange.cpp(20,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Stats.cpp
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(13,109): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(14,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(14,115): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(15,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(15,101): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(16,55): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(16,117): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(17,54): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(17,104): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(18,53): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(18,118): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(19,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Luiz\43c098f2-gr61-repo\Projekt\Projekt Sem 3 - Symulator ruchu drogowego\Projekt Sem 3 - Symulator ruchu drogowego\Stats.cpp(19,103): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  TextControll.cpp
+  Generowanie kodu...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: wystąpił konflikt typu maszyny modułu „x64” z typem maszyny docelowej „x86”
